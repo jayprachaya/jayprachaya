@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🙂
 I'm Prachaya Khomduean, 
 📖who is studying in an undergraduate program of Health Data Science
 at King Mongkut's University of Technology Thonburi (KMUTT) and 
