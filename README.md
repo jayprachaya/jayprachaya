@@ -1,4 +1,16 @@
 ### Hi there 👋
+I'm Prachaya Khomduean, 
+📖who is studying in an undergraduate program of Health Data Science
+at King Mongkut's University of Technology Thonburi (KMUTT) and 
+HRH Princess Chulabhorn College of Medical Science (PCCMS). 
+Bangkok , Thailand.
+
+☎ Contact me at e-mail: prachaya.1710@mail.kmutt.ac.th
+
+🖥 What I'm interested in:
+Natural Language Processing in gene entity recognition 🧬
+Medical image classification and detection
+...
 
 <!--
 **jayprachaya/jayprachaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
