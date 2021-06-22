@@ -5,7 +5,7 @@ at King Mongkut's University of Technology Thonburi (KMUTT) and
 HRH Princess Chulabhorn College of Medical Science (PCCMS). 
 Bangkok , Thailand.
 
-☎ Contact me at e-mail: prachaya.1710@mail.kmutt.ac.th
+☎ Contact me at e-mail: prachayakhomduean@gmail.com
 
 🖥 What I'm interested in:
 Natural Language Processing in gene entity recognition 🧬
