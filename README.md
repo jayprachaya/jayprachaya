@@ -8,9 +8,8 @@ Bangkok , Thailand.
 ☎ Contact me at e-mail: prachayakhomduean@gmail.com
 
 🖥 What I'm interested in:
-Medical image classification, Detection and Segmentation
-Natural Language Processing in gene entity recognition 🧬
-...
+- Medical image classification, Detection and Segmentation ...
+- Natural Language Processing in gene entity recognition 🧬
 
 <!--
 **jayprachaya/jayprachaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
