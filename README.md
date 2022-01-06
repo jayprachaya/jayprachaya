@@ -1,4 +1,4 @@
-### 🙂 [![Linkedin Badge](https://img.shields.io/badge/-Prachaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachaya-khomduean-569967204)](https://www.linkedin.com/in/prachaya-khomduean-569967204)[![Gmail Badge](https://img.shields.io/badge/-prachayakhomduean@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prachayakhomduean@gmail.com)](mailto:prachayakhomduean@gmail.com)
+### 🙂 [![Linkedin Badge](https://img.shields.io/badge/-Prachaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachaya-khomduean-569967204)](https://www.linkedin.com/in/prachaya-khomduean-569967204) [![Gmail Badge](https://img.shields.io/badge/-prachayakhomduean@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prachayakhomduean@gmail.com)](mailto:prachayakhomduean@gmail.com)
 My name is Prachaya Khomduean (Jay), 
 📖who is studying in an undergraduate program of Health Data Science
 at King Mongkut's University of Technology Thonburi (KMUTT) and 
