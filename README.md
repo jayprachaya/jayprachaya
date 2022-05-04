@@ -5,7 +5,7 @@ at King Mongkut's University of Technology Thonburi (KMUTT) and
 HRH Princess Chulabhorn College of Medical Science (PCCMS). 
 Bangkok , Thailand.
 
-☎ Contact me at E-mail: prachayakhomduean@gmail.com
+☎ Contact me at E-mail: prachaya.1710@mail.kmutt.ac.th
 
 🖥 What I'm interested in:
 - Medical image classification, Detection and Segmentation ...
