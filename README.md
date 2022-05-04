@@ -9,7 +9,7 @@ Bangkok , Thailand.
 
 🖥 What I'm interested in:
 - Medical image classification, Detection and Segmentation ...
-- Natural Language Processing in gene entity recognition 🧬
+- Natural Language Processing
 
 <!--
 **jayprachaya/jayprachaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
