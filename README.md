@@ -8,8 +8,8 @@ Bangkok , Thailand.
 ☎ Contact me at E-mail: prachaya.1710@mail.kmutt.ac.th
 
 🖥 What I'm interested in:
-- Medical image classification, Detection and Segmentation ...
-- Natural Language Processing
+- Medical image classification, Detection and Segmentation
+- Natural Language Processing for sentiment analysis
 
 <!--
 **jayprachaya/jayprachaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
