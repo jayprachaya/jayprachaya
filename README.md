@@ -1,11 +1,11 @@
 ### [![Linkedin Badge](https://img.shields.io/badge/-Prachaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachaya-khomduean-569967204)](https://www.linkedin.com/in/prachaya-khomduean-569967204)
 My name is Prachaya Khomduean (Jay), 
-📖who is studying in an undergraduate program of Health Data Science
+📖 I recently graduated from the Health Data Science program
 at King Mongkut's University of Technology Thonburi (KMUTT) and 
-HRH Princess Chulabhorn College of Medical Science (PCCMS). 
+Princess Srisavangavadhana College of Medicine Chulabhorn Royal Academy (PSCM). 
 Bangkok , Thailand.
 
-☎ Contact me at E-mail: prachaya.1710@mail.kmutt.ac.th
+☎ Contact me at E-mail: prachaya.kho.work@gmail.com
 
 🖥 What I'm interested in:
 - Medical image classification, Detection and Segmentation
