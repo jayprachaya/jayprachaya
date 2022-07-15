@@ -8,7 +8,7 @@ Bangkok , Thailand.
 ☎ Contact me at E-mail: prachaya.kho.work@gmail.com
 
 🖥 What I'm interested in:
-- Medical image classification, Detection and Segmentation
+- Image processing eg. Detection and Segmentation
 - Natural Language Processing for sentiment analysis
 
 <!--
