@@ -1,6 +1,6 @@
 ### [![Linkedin Badge](https://img.shields.io/badge/-Prachaya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prachaya-khomduean-569967204)](https://www.linkedin.com/in/prachaya-khomduean-569967204)
 My name is Prachaya Khomduean (Jay), 
-📖 I recently graduated from the Health Data Science program
+📖 I graduated from the Health Data Science program
 at King Mongkut's University of Technology Thonburi (KMUTT) and 
 Princess Srisavangavadhana College of Medicine Chulabhorn Royal Academy (PSCM). 
 Bangkok , Thailand.
