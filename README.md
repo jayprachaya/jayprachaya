@@ -10,7 +10,7 @@ Bangkok , Thailand.
 🖥 What I'm interested in:
 - Image processing eg. Detection and Segmentation
 - Web sraping
-- Sock investment
+- Stock investment
 
 <!--
 **jayprachaya/jayprachaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
