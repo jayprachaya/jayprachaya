@@ -5,7 +5,7 @@ at King Mongkut's University of Technology Thonburi (KMUTT) and
 Princess Srisavangavadhana College of Medicine Chulabhorn Royal Academy (PSCM). 
 Bangkok , Thailand.
 
-☎ Contact me at E-mail: prachaya.kho.work@gmail.com
+☎ Contact me at E-mail: prachayakhomduean@gmail.com
 
 🖥 What I'm interested in:
 - Image processing eg. Detection and Segmentation
